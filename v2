@@ -4,7 +4,7 @@
 int main(int arg,char *str[]){
 	char str2[20][20];
 	int len[20]={0};
-	printf("Arg: %d ",arg);
+	printf("Arg: %d ",(arg-1));
 	
 	for (int i=0;i<arg;++i){
 		// Take Argument Input
