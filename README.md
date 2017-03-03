@@ -2,8 +2,8 @@
 To print reverse of an Argument given in Unix Os
 Change Log
 
-V1
+V1:
 Takes normal argument and reverse it. Limited to Only One Argument.
 
-v2
+v2:(beta)
 Can take upto 20 number of arguments and reverse them.
